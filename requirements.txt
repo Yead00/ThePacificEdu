@@ -1,0 +1,5 @@
+Flask
+twilio
+firebase-admin
+python-dotenv
+requests
